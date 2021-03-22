@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**DmitriVlassenko/DmitriVlassenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me...  
 
-Here are some ideas to get you started:
+```javascript
+const Dmitri = {
+  pronouns: "Dimi",
+  code: [Javascript, Typescript, HTML, CSS, C],
+  tools: [React, Redux, Node, SASS, MongoDB, Express],
+  learning: {
+                course: "FullStackOpen",
+                practise: "CodeWars"
+            },
+ status: "Opened to work"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking for a code buddy to have more fun learning together.
+- 🤔 I’m looking for help with job search.
+- 💬 Ask me about anything.
+- 📫 How to reach me: [Portfolio Page](https://dmitri.fi)
+- ⚡ Fun fact: The best ideas come at night.
