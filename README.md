@@ -15,7 +15,7 @@ const Dmitri = {
 }
 ```
 
-- 👯 I’m looking for a code buddy to have more fun learning together.
+- 👋 I’m looking for a code buddy to have more fun learning together.
 - 🤔 I’m looking for help with job search.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Portfolio Page](https://dmitri.fi)
