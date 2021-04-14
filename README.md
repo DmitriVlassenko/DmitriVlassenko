@@ -11,7 +11,7 @@ const Dmitri = {
                 course: "FullStackOpen",
                 practise: "CodeWars"
             },
- status: "Opened to work"
+ status: "Open to work"
 }
 ```
 
