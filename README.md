@@ -11,7 +11,9 @@ const Dmitri = {
                 course: "FullStackOpen",
                 practise: "CodeWars"
             },
- status: "Open to work"
+ status: "Open to work",
+ phone: +358452512905,
+ email: "dmitrivlassenko@gmail.com
 }
 ```
 
